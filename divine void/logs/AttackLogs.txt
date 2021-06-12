@@ -1,0 +1,123 @@
+[13/04/2021][16:14] Zev | UDP | 70.70.70.72 | Port: 80 | Secs: 30 | Shaw Communications Inc.
+[13/04/2021][16:20] Zev | UDP | 70.70.70.72 | Port: 80 | Secs: 30 | Shaw Communications Inc.
+[13/04/2021][16:28] Zev | UDP | 56.56.56.56 | Port: 80 | Secs: 2 | United States Postal Service.
+[13/04/2021][20:9] Zev | PLAIN | 70.70.70.72 | Port: 80 | Secs: 30 | 
+[06/05/2021][17:38] m68k | UDP | 74.73.73.74 | Port: 443 | Secs: 20 | Charter Communications
+[06/05/2021][17:43] m68k | UDP | 74.73.73.74 | Port: 80 | Secs: 20 | Charter Communications
+[06/05/2021][18:25] m68k | UDP | 74.73.73.74 | Port: 80 | Secs: 120 | Charter Communications
+[06/05/2021][19:43] imnew | UDP | 74.74.74.73 | Port: 80 | Secs: 30 | Charter Communications
+[06/05/2021][19:46] imnew | STD | 31.186.250.16 | Port: 21 | Secs: 30 | InterNAP Network Services
+[06/05/2021][19:47] m68k | UDP | 74.73.73.74 | Port: 80 | Secs: 20 | Charter Communications
+[06/05/2021][19:49] imnew | UDP | 128.116.76.53 | Port: 55168 | Secs: 30 | Roblox
+[06/05/2021][19:52] imnew | STD | 128.116.76.53 | Port: 55168 | Secs: 30 | Roblox
+[06/05/2021][19:53] nightmare | UDP | 188.126.44.28 | Port: 7777 | Secs: 60 | DOMOLAN
+[06/05/2021][19:54] imnew | STD | 117.27.239.45 | Port: 80 | Secs: 30 | org
+[06/05/2021][19:56] nightmare | UDP | 213.5.229.4 | Port: 7707 | Secs: 120 | ARTPLANET PEER SPB ADDOS # 4
+[06/05/2021][19:59] nightmare | SYN | 131.196.198.56 | Port: 7707 | Secs: 300 | org
+[06/05/2021][20:24] m68k | udpbypassv2 | 74.73.73.74 | Port: 443 | Secs: 120 | 
+[06/05/2021][20:52] m68k | STD | 74.73.73.74 | Port: 80 | Secs: 20 | Charter Communications
+[06/05/2021][21:3] joe4 | STD | 154.3.250.71 | Port: 80 | Secs: 30 | Cogent Communications
+[06/05/2021][21:27] joe4 | STD | 31.186.250.16 | Port: 21 | Secs: 30 | InterNAP Network Services
+[06/05/2021][21:28] joe4 | STD | 66.150.214.8 | Port: 21 | Secs: 30 | Internap Corporation
+[06/05/2021][21:30] joe4 | UDP | 216.180.141.98 | Port: 80 | Secs: 30 | Blade Global Corporation
+[06/05/2021][21:31] joe4 | STD | 216.180.141.98 | Port: 80 | Secs: 10 | Blade Global Corporation
+[06/05/2021][21:53] joe4 | STD | 31.186.250.18 | Port: 21 | Secs: 30 | InterNAP Network Services
+[06/05/2021][21:53] joe4 | UDP | 31.186.250.18 | Port: 21 | Secs: 20 | InterNAP Network Services
+[06/05/2021][22:1] joe4 | UDP | 66.150.214.8 | Port: 21 | Secs: 20 | Internap Corporation
+[06/05/2021][22:2] joe4 | UDP | 31.186.250.18 | Port: 21 | Secs: 20 | InterNAP Network Services
+[06/05/2021][22:11] m68k | STD | 79.114.163.192 | Port: 80 | Secs: 120 | org
+[06/05/2021][22:12] m68k | UDP | 82.76.215.241 | Port: 80 | Secs: 30 | org
+[06/05/2021][22:13] joe4 | STD | 82.76.215.241 | Port: 53 | Secs: 30 | org
+[06/05/2021][22:14] m68k | ACK | 82.76.215.241 | Port: 80 | Secs: 30 | org
+[06/05/2021][22:14] joe4 | SYN | 82.76.215.241 | Port: 53 | Secs: 20 | org
+[06/05/2021][22:16] joe4 | SYN | 82.76.215.241 | Port: 53 | Secs: 20 | org
+[06/05/2021][22:18] joe4 | SYN | 167.114.92.35 | Port: 22 | Secs: 20 | OVH Hosting
+[06/05/2021][22:20] m68k | UDP | 82.76.215.241 | Port: 80 | Secs: 20 | org
+[06/05/2021][22:21] m68k | STD | 82.76.215.241 | Port: 80 | Secs: 15 | org
+[06/05/2021][22:45] joe4 | STD | 8.47.69.30 | Port: 80 | Secs: 20 |  Inc.
+[06/05/2021][22:46] joe4 | UDP | 8.47.69.30 | Port: 20 | Secs: 20 |  Inc.
+[06/05/2021][23:3] joe4 | UDP | 31.186.250.100 | Port: 21 | Secs: 20 | InterNAP Network Services
+[06/05/2021][23:17] joe4 | UDP | 66.150.214.128 | Port: 53 | Secs: 20 | Internap Corporation
+[07/05/2021][0:36] joe4 | UDP | 8.21.13.16 | Port: 80 | Secs: 30 |  Inc.
+[07/05/2021][0:37] joe4 | Cream | 8.21.13.16 | Port: 80 | Secs: 10 |  Inc.
+[07/05/2021][0:40] joe4 | UDP | 64.94.238.17 | Port: 21 | Secs: 30 | Internap Network Services Corporation
+[07/05/2021][0:41] joe4 | UDP | 185.38.151.111 | Port: 80 | Secs: 30 | Hydra Communications Ltd
+[07/05/2021][0:42] joe4 | UDP | 45.88.160.20 | Port: 80 | Secs: 20 | DediPath
+[07/05/2021][0:44] joe4 | UDP | 74.91.123.181 | Port: 135 | Secs: 30 | Internap Holding LLC
+[07/05/2021][0:45] joe4 | UDP | 54.147.21.112 | Port: 31000 | Secs: 30 | Amazon Technologies Inc.
+[07/05/2021][0:46] joe4 | STD | 54.147.21.112 | Port: 31000 | Secs: 30 | Amazon Technologies Inc.
+[07/05/2021][0:47] joe4 | UDP | 167.114.128.16 | Port: 80 | Secs: 20 | OVH SAS
+[07/05/2021][0:49] joe4 | UDP | 185.107.96.72 | Port: 135 | Secs: 20 | NFOSERVERS-FRA
+[07/05/2021][0:50] joe4 | UDP | 66.151.138.194 | Port: 80 | Secs: 20 | Internap Corporation
+[07/05/2021][0:52] joe4 | UDP | 8.9.4.3 | Port: 22 | Secs: 20 | The Constant Company
+[07/05/2021][0:53] joe4 | UDP | 8.9.4.3 | Port: 22 | Secs: 20 | The Constant Company
+[07/05/2021][1:3] joe4 | SYN | 1.1.1.1 | Port: 80 | Secs: 5 | Cloudflare
+[07/05/2021][1:4] joe4 | Cream | 1.1.1.1 | Port: 80 | Secs: 5 | Cloudflare
+[07/05/2021][1:5] joe4 | Cream | 74.74.74.11 | Port: 80 | Secs: 10 | Charter Communications
+[07/05/2021][1:6] joe4 | ACK | 74.74.74.11 | Port: 80 | Secs: 5 | Charter Communications
+[07/05/2021][1:11] joe4 | UDP | 154.21.114.228 | Port: 80 | Secs: 30 | Cogent Communications
+[07/05/2021][1:19] joe4 | UDP | 8.47.69.30 | Port: 80 | Secs: 40 |  Inc.
+[07/05/2021][2:9] joe4 | UDP | 64.94.238.17 | Port: 21 | Secs: 30 | Internap Network Services Corporation
+[07/05/2021][2:10] joe4 | STD | 64.94.238.17 | Port: 21 | Secs: 10 | Internap Network Services Corporation
+[07/05/2021][2:14] joe4 | SYN | 1.1.1.1 | Port: 80 | Secs: 4 | Cloudflare
+[07/05/2021][9:26] m68k | Server | 74.73.73.74 | Port: 80 | Secs: 15 | Charter Communications
+[07/05/2021][9:26] m68k | STD | 74.73.73.74 | Port: 80 | Secs: 20 | Charter Communications
+[07/05/2021][9:35] m68k | UDP | 74.73.73.74 | Port: 80 | Secs: 60 | Charter Communications
+[07/05/2021][11:20] m68k | UDP | 70.70.70.3 | Port: 80 | Secs: 20 | Shaw Communications Inc.
+[07/05/2021][11:24] m68k | UDP | 74.86.12.32 | Port: 80 | Secs: 21 | SoftLayer
+[07/05/2021][16:35] m68k | UDP | 70.70.70.3 | Port: 80 | Secs: 20 | Shaw Communications Inc.
+[07/05/2021][16:37] m68k | UDP | 1.1.1.1 | Port: 80 | Secs: 10 | Cloudflare
+[08/05/2021][7:27] m68k | UDP | 70.70.70.3 | Port: 80 | Secs: 20 | Shaw Communications Inc.
+[08/05/2021][9:22] m68k | STD | 70.70.70.3 | Port: 80 | Secs: 20 | Shaw Communications Inc.
+[08/05/2021][12:15] Karma2k21 | UDP | 45.146.252.10 | Port: 30202 | Secs: 500 | ZAP-Hosting GmbH \u0026 Co. KG
+[08/05/2021][12:24] Karma2k21 | UDP | 82.76.215.241 | Port: 80 | Secs: 15 | org
+[08/05/2021][12:28] Karma2k21 | UDP | 82.76.215.241 | Port: 80 | Secs: 200 | org
+[08/05/2021][12:34] Karma2k21 | UDP | 134.255.232.99 | Port: 30120 | Secs: 60 | combahton GmbH
+[08/05/2021][12:41] Karma2k21 | UDP | 37.228.215.55 | Port: 80 | Secs: 30 | NTL Ireland
+[08/05/2021][12:43] Karma2k21 | UDP | 79.119.240.164 | Port: 80 | Secs: 30 | org
+[08/05/2021][15:56] Karma2k21 | UDP | 82.76.215.241 | Port: 80 | Secs: 15 | org
+[08/05/2021][15:58] Karma2k21 | UDP | 46.105.185.58 | Port: 80 | Secs: 30 | OVH SAS
+[08/05/2021][16:0] Karma2k21 | UDP | 45.146.252.10 | Port: 30202 | Secs: 30 | ZAP-Hosting GmbH \u0026 Co. KG
+[08/05/2021][16:11] Karma2k21 | UDP | 195.20.40.137 | Port: 80 | Secs: 30 | OpenTLD Web Network
+[08/05/2021][16:20] Karma2k21 | UDP | 2.223.219.18 | Port: 80 | Secs: 30 | Sky UK Limited
+[08/05/2021][16:25] Karma2k21 | UDP | 195.20.40.137 | Port: 80 | Secs: 60 | OpenTLD Web Network
+[08/05/2021][16:28] Karma2k21 | UDP | 217.182.182.64 | Port: 30121 | Secs: 120 | OVH SAS
+[08/05/2021][16:35] Karma2k21 | UDP | 5.13.41.208 | Port: 80 | Secs: 30 | org
+[08/05/2021][16:37] Karma2k21 | UDP | 5.13.41.208 | Port: 80 | Secs: 30 | org
+[08/05/2021][16:41] Karma2k21 | UDP | 90.247.45.68 | Port: 80 | Secs: 15 | Vodafone Limited
+[08/05/2021][16:44] Karma2k21 | UDP | 88.198.16.90 | Port: 80 | Secs: 30 | Hetzner Online GmbH
+[08/05/2021][16:57] Karma2k21 | UDP | 45.146.252.10 | Port: 30202 | Secs: 120 | ZAP-Hosting GmbH \u0026 Co. KG
+[08/05/2021][17:0] Karma2k21 | UDP | 45.146.252.10 | Port: 30202 | Secs: 30 | ZAP-Hosting GmbH \u0026 Co. KG
+[08/05/2021][17:13] Karma2k21 | UDP | 2.223.219.18 | Port: 80 | Secs: 30 | Sky UK Limited
+[08/05/2021][21:45] Karma2k21 | UDP | 134.255.232.99 | Port: 30139 | Secs: 60 | combahton GmbH
+[08/05/2021][21:47] Karma2k21 | UDP | 134.255.232.99 | Port: 30139 | Secs: 200 | combahton GmbH
+[08/05/2021][21:52] Karma2k21 | UDP | 2.223.219.18 | Port: 80 | Secs: 60 | Sky UK Limited
+[08/05/2021][22:24] Karma2k21 | UDP | 135.125.249.142 | Port: 30120 | Secs: 30 | OVH SAS
+[09/05/2021][2:0] joe4 | UDP | 144.172.67.126 | Port: 63447 | Secs: 30 | GALAXYGATE
+[09/05/2021][2:1] joe4 | STD | 144.172.67.126 | Port: 63447 | Secs: 20 | GALAXYGATE
+[09/05/2021][2:2] joe4 | STD | 144.172.67.126 | Port: 63447 | Secs: 30 | GALAXYGATE
+[09/05/2021][2:3] joe4 | SYN | 144.172.67.126 | Port: 63447 | Secs: 30 | GALAXYGATE
+[09/05/2021][2:3] joe4 | ACK | 144.172.67.126 | Port: 6344 | Secs: 20 | GALAXYGATE
+[09/05/2021][15:16] m68k | STD | 70.70.70.3 | Port: 80 | Secs: 15 | Shaw Communications Inc.
+[09/05/2021][15:32] Karma2k21 | UDP | 45.146.252.10 | Port: 30202 | Secs: 40 | ZAP-Hosting GmbH \u0026 Co. KG
+[09/05/2021][15:51] Karma2k21 | UDP | 93.114.82.144 | Port: 30121 | Secs: 30 | Annarsy SRL
+[10/05/2021][0:25] joe4 | UDP | 103.195.103.19 | Port: 80 | Secs: 30 | ReliableSite.Net LLC
+[10/05/2021][0:25] joe4 | STD | 103.195.103.19 | Port: 5 | Secs:  | ReliableSite.Net LLC
+[10/05/2021][0:26] joe4 | STD | 103.195.103.19 | Port: 53 | Secs: 30 | ReliableSite.Net LLC
+[10/05/2021][7:5] m68k | STD | 70.70.70.3 | Port: 80 | Secs: 15 | Shaw Communications Inc.
+[10/05/2021][19:17] Karma2k21 | UDP | 90.247.45.68 | Port: 80 | Secs: 40 | Vodafone Limited
+[10/05/2021][20:37] m68k | STD | 70.70.70.3 | Port: 80 | Secs: 15 | Shaw Communications Inc.
+[11/05/2021][4:37] joe4 | UDP | 74.74.74.73 | Port: 80 | Secs: 30 | Charter Communications
+[11/05/2021][5:31] joe4 | UDP | 74.74.74.73 | Port: 53 | Secs: 25 | Charter Communications
+[11/05/2021][5:31] joe4 | UDP | 74.74.74.11 | Port: 53 | Secs: 25 | Charter Communications
+[11/05/2021][7:11] m68k | STD | 70.70.70.3 | Port: 80 | Secs: 15 | Shaw Communications Inc.
+[11/05/2021][7:17] m68k | STD | 103.95.221.0 | Port: 80 | Secs: 15 | org
+[17/05/2021][15:32] m68k | UDP | 74.73.73.74 | Port: 80 | Secs: 15 | Charter Communications
+[17/05/2021][16:26] joe4 | STD | 74.74.74.73 | Port: 53 | Secs: 20 | Charter Communications
+[17/05/2021][16:27] joe4 | UDP | 74.74.74.73 | Port: 80 | Secs: 30 | Charter Communications
+[17/05/2021][16:32] joe4 | STD | 31.186.250.16 | Port: 21 | Secs: 20 | InterNAP Network Services
+[17/05/2021][16:39] m68k | STD | 74.73.73.74 | Port: 80 | Secs: 15 | Charter Communications
+[17/05/2021][16:54] m68k | STD | 74.73.73.74 | Port: 80 | Secs: 15 | Charter Communications
+[17/05/2021][19:8] m68k | STD | 74.73.73.74 | Port: 80 | Secs: 15 | Charter Communications
+[17/05/2021][19:23] m68k | ntp | 74.73.73.74 | Port: 80 | Secs: 15 | 
+[17/05/2021][19:25] m68k | syn | 74.73.73.74 | Port: 80 | Secs: 15 | 
